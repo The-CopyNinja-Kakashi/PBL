@@ -1,4 +1,7 @@
 numpy
 pandas
+statsmodels
 scikit-learn
-labelEncoder
+Pillow
+streamlit
+joblib==1.3.2
